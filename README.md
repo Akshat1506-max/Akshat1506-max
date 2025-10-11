@@ -1,4 +1,4 @@
-# Hey folks, this is Akshat. 👋  
+# Hey folks, this is Akshat.
 
 🎓 CS Student @ University of Illinois Chicago (BS in Computer Science, 2025–2027)  
 💡 Interests: Cybersecurity, System Operations, and Full-Stack Development  
