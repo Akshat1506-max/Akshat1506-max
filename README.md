@@ -1,12 +1,12 @@
 # Hey folks, this is Akshat.
 
-🎓 CS Student @ University of Illinois Chicago (BS in Computer Science, 2025–2027)  
-💡 Interests: Cybersecurity, System Operations, and Full-Stack Development  
-💻 Tech Stack: Python, Java, C++, SQL, Linux, Git, SIEM, IDS/IPS, REST APIs  
+ CS Student @ University of Illinois Chicago (BS in Computer Science, 2025–2027)  
+ Interests: Cybersecurity, System Operations, and Full-Stack Development  
+ Tech Stack: Python, Java, C++, SQL, Linux, Git, SIEM, IDS/IPS, REST APIs  
 
 ---
 
-## 🔐 Projects
+##  Projects
 
 - **[MacOS Firewall Monitor](https://github.com/Akshat1506-max/macbook-firewall)**  
   - Real-time offline system monitor built with Python/Tkinter.  
@@ -20,7 +20,7 @@
 
 ---
 
-## 💼 Experience
+##  Experience
 
 - **Pharmacy Technician – Walgreens** (Jul 2024 – Present)  
   - Led high-volume prescription operations, ensured HIPAA compliance, and reduced dispensing errors to near zero.  
