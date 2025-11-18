@@ -1,8 +1,6 @@
-<!-- ENTIRE README IN GREEN -->
-
 <div style="color:#00ff00;">
 
-<h1 align="center">Hey folks, this is Akshat.</h1>
+<h1 align="left">Hey folks, this is Akshat.</h1>
 
 <p>
 CS Student @ University of Illinois Chicago (BS in Computer Science, 2025–2027)<br>
