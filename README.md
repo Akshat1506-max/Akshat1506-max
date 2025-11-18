@@ -1,69 +1,51 @@
-<div style="color:#00ff00;">
+# Hey folks, this is Akshat.
 
-<h1 align="left">Hey folks, this is Akshat.</h1>
+ CS Student @ University of Illinois Chicago (BS in Computer Science, 2025–2027)
+ 
+ Interests: Cybersecurity, System Operations, and Full-Stack Development
+ 
+ Tech Stack: Python, Java, C++, SQL, Linux, Git, SIEM, IDS/IPS, REST APIs  
 
-<p>
-CS Student @ University of Illinois Chicago (BS in Computer Science, 2025–2027)<br>
-Interests: Cybersecurity, System Operations, and Full-Stack Development<br>
-Tech Stack: Python, Java, C++, SQL, Linux, Git, SIEM, IDS/IPS, REST APIs
-</p>
+---
 
-<hr>
+##  Projects
 
-<h2>Projects</h2>
+- **[MacOS Firewall Monitor](https://github.com/Akshat1506-max/macbook-firewall)**  
+  - Real-time offline system monitor built with Python/Tkinter.  
+  - Detects USB/Wi-Fi connections in under 1s, shows battery/charging status, and integrates a radar + terminal view.  
+  - Deployed on 3 Macs with zero external dependencies.  
 
-<ul>
-  <li>
-    <strong><a href="https://github.com/Akshat1506-max/macbook-firewall" style="color:#00ff00;">MacOS Firewall Monitor</a></strong><br>
-    Real-time offline system monitor built with Python/Tkinter.<br>
-    Detects USB/Wi-Fi connections in under 1s, shows battery/charging status, and integrates a radar + terminal view.<br>
-    Deployed on 3 Macs with zero external dependencies.
-  </li>
-  <br>
+- **[Secure Guardian Password Manager](https://securegpasswordmanager.on.drv.tw/passwdgenerator.html)**  
+  - Privacy-first password manager following NIST guidelines.  
+  - Uses SHA-256 strong password generation with 90-day auto-rotation reminders.  
+  - Tested by 25+ users with no data leaks or crashes.  
 
-  <li>
-    <strong><a href="https://securegpasswordmanager.on.drv.tw/passwdgenerator.html" style="color:#00ff00;">Secure Guardian Password Manager</a></strong><br>
-    Privacy-first password manager following NIST guidelines.<br>
-    Uses SHA-256 strong password generation with 90-day auto-rotation reminders.<br>
-    Tested by 25+ users with no data leaks or crashes.
-  </li>
-</ul>
+---
 
-<hr>
+##  Experience
 
-<h2>Experience</h2>
+- **Pharmacy Technician – Walgreens** (Jul 2024 – Present)  
+  - Led high-volume prescription operations, ensured HIPAA compliance, and reduced dispensing errors to near zero.  
+  - Reported and documented a critical IC+ system bug, acknowledged by leadership for internal review.  
 
-<p>
-<strong>Pharmacy Technician – Walgreens</strong> (Jul 2024 – Present)<br>
-• Managed high-volume prescription workflows and HIPAA compliance.<br>
-• Reported a software issue in the IC+ system, recognized by leadership.
-<br><br>
+- **Patient Intake & Insurance Optimization – Suburban Medical Center** (Aug 2023 – Mar 2024)  
+  - Streamlined patient check-in workflows, reducing claim rejections and improving revenue cycle efficiency.  
 
-<strong>Patient Intake & Insurance Optimization – Suburban Medical Center</strong> (Aug 2023 – Mar 2024)<br>
-• Improved patient check-in speed and reduced claim rejections.
-<br><br>
+- **Team Lead – Infinite Billing Solutions (India)** (Jan 2022 – Aug 2022)  
+  - Supported product onboarding, testing cycles, and created SOPs for a healthcare tech startup.  
 
-<strong>Team Lead – Infinite Billing Solutions (India)</strong> (Jan 2022 – Aug 2022)<br>
-• Supported product onboarding, testing cycles, and created SOPs for workflow efficiency.
-</p>
+---
 
-<hr>
+## 📚 Education  
 
-<h2>Education</h2>
+- **University of Illinois Chicago** – B.S. in Computer Science (2025–2027)  
+- **Harper College** – A.S. in Engineering Sciences, Computer Science (2023–2025)  
 
-<p>
-• <strong>University of Illinois Chicago</strong> – B.S. Computer Science (2025–2027)<br>
-• <strong>Harper College</strong> – A.S. Engineering Sciences, CS (2023–2025)
-</p>
+---
 
-<hr>
+## 📫 Connect With Me  
 
-<h2>Connect With Me</h2>
-
-<p>
-• Email: <a href="mailto:root.akshat@gmail.com" style="color:#00ff00;">root.akshat@gmail.com</a><br>
-• LinkedIn: <a href="https://www.linkedin.com/in/akshat1506/" style="color:#00ff00;">linkedin.com/in/akshat1506</a><br>
-• Portfolio: <a href="http://akshatthakkarsportfolio.com" style="color:#00ff00;">akshatthakkarsportfolio.com</a>
-</p>
-
-</div>
+- Email: [root.akshat@gmail.com](mailto:root.akshat@gmail.com)  
+- LinkedIn: [linkedin.com/in/akshat1506](https://www.linkedin.com/in/akshat1506/)  
+- Portfolio: [akshatthakkarsportfolio.com](http://akshatthakkarsportfolio.com)  
+" i can do the text in green color. just like my porfolio website.
