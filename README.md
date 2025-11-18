@@ -1,3 +1,16 @@
+<h1 align="center">
+  <font color="#00ff00">Hey folks, this is Akshat.</font>
+</h1>
+
+<font color="#00ff00">
+
+CS Student @ University of Illinois Chicago (BS in Computer Science, 2025–2027)  
+Interests: Cybersecurity, System Operations, and Full-Stack Development  
+Tech Stack: Python, Java, C++, SQL, Linux, Git, SIEM, IDS/IPS, REST APIs  
+
+</font>
+
+
 # Hey folks, this is Akshat.
 
  CS Student @ University of Illinois Chicago (BS in Computer Science, 2025–2027)  
